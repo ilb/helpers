@@ -1,0 +1,8 @@
+{
+  "name": "@ilb/helpers",
+  "version": "1.0.1",
+  "type": "module",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
